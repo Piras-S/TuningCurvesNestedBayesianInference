@@ -2,10 +2,6 @@
 
 This project demonstrates how to simulate and analyze neural tuning curve data using **Bayesian inference** via **nested sampling**. It combines theory, code, and visual intuition to explain how posterior distributions are obtained, and why they should be interpreted with care.
 
-<p align="center">
-  <img src="nested_sampling.gif" width="500"/>
-</p>
-
 ---
 
 ## Project Overview
@@ -34,7 +30,7 @@ I simulate the firing response of a neuron to different stimulus angles (e.g., o
 A minimal 2D implementation of nested sampling illustrates the algorithm’s core idea: removing low-likelihood regions and progressively zooming in on high-probability space.
 
 <p align="center">
-  <img src="figures/nested_sampling.gif" width="400"/>
+  <img src="nested_sampling.gif" width="400"/>
 </p>
 
 
