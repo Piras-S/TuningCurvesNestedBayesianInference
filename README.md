@@ -3,7 +3,7 @@
 This project demonstrates how to simulate and analyze neural tuning curve data using **Bayesian inference** via **nested sampling**. It combines theory, code, and visual intuition to explain how posterior distributions are obtained, and why they should be interpreted with care.
 
 <p align="center">
-  <img src="figures/nested_sampling.gif" width="500"/>
+  <img src="nested_sampling.gif" width="500"/>
 </p>
 
 ---
