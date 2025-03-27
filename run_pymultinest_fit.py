@@ -1,4 +1,3 @@
-# Content of run_pymultinest_fit.py:
 # run_pymultinest_fit.py
 
 import numpy as np
