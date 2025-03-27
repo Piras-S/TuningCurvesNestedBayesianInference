@@ -59,6 +59,7 @@ Feroz, F., Hobson, M. P., & Bridges, M. (2009). MultiNest: an efficient and robu
 ├── fitting.ipynb # Educational toy example of nested sampling  + Run and analyze full model fitting 
 ├── run_pymultinest_fit.py # Script to perform inference with PyMultiNest 
 ├── tuning_data.csv # Simulated dataset 
-├── figures/ 
+├── figures/
+├── chains/
 └── nested_sampling.gif # Animation of toy nested sampling
 
